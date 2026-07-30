@@ -7,21 +7,21 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/motorola/zeekr" name="android_device_motorola_zeekr" remote="moto-sm8475-dev" revision="lineage-23.2" />
+    <project path="device/motorola/zeekr" name="android_device_motorola_zeekr" remote="moto-sm8475-dev" revision="lineage-23.2-wip" />
 
     <!-- Device - Common -->
-    <project path="device/motorola/sm8475-common" name="android_device_motorola_sm8475-common" remote="moto-sm8475-dev" revision="lineage-23.2" />
+    <project path="device/motorola/sm8475-common" name="android_device_motorola_sm8475-common" remote="moto-sm8475-dev" revision="lineage-23.2-wip" />
 
     <!-- Kernel -->
-    <project path="kernel/motorola/sm8475" name="android_kernel_motorola_sm8475" remote="moto-sm8475-dev" revision="lineage-23.2" />
-    <project path="kernel/motorola/sm8475-devicetrees" name="android_kernel_motorola_sm8475-devicetrees" remote="moto-sm8475-dev" revision="lineage-23.2" />
-    <project path="kernel/motorola/sm8475-modules" name="android_kernel_motorola_sm8475-modules" remote="moto-sm8475-dev" revision="lineage-23.2" />
+    <project path="kernel/motorola/sm8475" name="android_kernel_motorola_sm8475" remote="moto-sm8475-dev" revision="lineage-23.2-wip" />
+    <project path="kernel/motorola/sm8475-devicetrees" name="android_kernel_motorola_sm8475-devicetrees" remote="moto-sm8475-dev" revision="lineage-23.2-wip" />
+    <project path="kernel/motorola/sm8475-modules" name="android_kernel_motorola_sm8475-modules" remote="moto-sm8475-dev" revision="lineage-23.2-wip" />
 
     <!-- Vendor -->
-    <project path="vendor/motorola/zeekr" name="proprietary_vendor_motorola_zeekr" remote="moto-sm8475-dev" revision="lineage-23.2" />
+    <project path="vendor/motorola/zeekr" name="proprietary_vendor_motorola_zeekr" remote="moto-sm8475-dev" revision="lineage-23.2-wip" />
 
     <!-- Vendor - Common -->
-    <project path="vendor/motorola/sm8475-common" name="proprietary_vendor_motorola_sm8475-common" remote="moto-sm8475-dev" revision="lineage-23.2" />
+    <project path="vendor/motorola/sm8475-common" name="proprietary_vendor_motorola_sm8475-common" remote="moto-sm8475-dev" revision="lineage-23.2-wip" />
 
     <!-- Hardware -->
     <project path="hardware/motorola" name="android_hardware_motorola" remote="LineageOS" revision="lineage-23.2" />
